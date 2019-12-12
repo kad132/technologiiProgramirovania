@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Kazimirik.TechnologiaProgramirovania.Classes\Kazimirik.TechnologiaProgramirovania.Classes.csproj">
+      <Project>{c108fc10-e0b1-47ee-86b0-c1854eaa3479}</Project>
+      <Name>Kazimirik.TechnologiaProgramirovania.Classes</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

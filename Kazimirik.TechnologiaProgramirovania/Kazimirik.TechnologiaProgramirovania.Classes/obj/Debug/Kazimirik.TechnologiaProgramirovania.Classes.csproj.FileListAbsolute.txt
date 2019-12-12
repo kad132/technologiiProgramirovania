@@ -1,0 +1,5 @@
+C:\Users\HOOKAHGUIDE\Desktop\Kazma\technologiiProgramirovania\Kazimirik.TechnologiaProgramirovania\Kazimirik.TechnologiaProgramirovania.Classes\bin\Debug\Kazimirik.TechnologiaProgramirovania.Classes.dll
+C:\Users\HOOKAHGUIDE\Desktop\Kazma\technologiiProgramirovania\Kazimirik.TechnologiaProgramirovania\Kazimirik.TechnologiaProgramirovania.Classes\bin\Debug\Kazimirik.TechnologiaProgramirovania.Classes.pdb
+C:\Users\HOOKAHGUIDE\Desktop\Kazma\technologiiProgramirovania\Kazimirik.TechnologiaProgramirovania\Kazimirik.TechnologiaProgramirovania.Classes\obj\Debug\Kazimirik.TechnologiaProgramirovania.Classes.csprojAssemblyReference.cache
+C:\Users\HOOKAHGUIDE\Desktop\Kazma\technologiiProgramirovania\Kazimirik.TechnologiaProgramirovania\Kazimirik.TechnologiaProgramirovania.Classes\obj\Debug\Kazimirik.TechnologiaProgramirovania.Classes.dll
+C:\Users\HOOKAHGUIDE\Desktop\Kazma\technologiiProgramirovania\Kazimirik.TechnologiaProgramirovania\Kazimirik.TechnologiaProgramirovania.Classes\obj\Debug\Kazimirik.TechnologiaProgramirovania.Classes.pdb
